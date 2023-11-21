@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    color: red;
+    padding: 6px;
+    margin: auto;
+    border: 3px solid black;
+    background-color: rgba(71, 66, 66, 0.911);
+}
+h2 {
+    text-align: center;
+    color: brown;
+}
+div {
+    margin:auto;
+    background-color: rgba(236, 171, 50, 0.801);
+  }
+body {
+    background-color: rgba(81, 83, 85, 0.753);
+}
